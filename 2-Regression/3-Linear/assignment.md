@@ -8,4 +8,4 @@ In this lesson you were shown how to build a model using both Linear and Polynom
 
 | Criteria | Exemplary                                                    | Adequate                   | Needs Improvement               |
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------- |
-|          | presents a complete notebook with a well-documented solution | the solution is incomplete | the solution is flawed or buggy |
+|  Exemplary -  :white_check_mark:     | presents a complete notebook with a well-documented solution | the solution is incomplete | the solution is flawed or buggy |
